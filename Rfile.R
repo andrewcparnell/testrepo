@@ -1,3 +1,3 @@
 # An example R scipt
 
-plot(1,1)
+plot(1,2)
